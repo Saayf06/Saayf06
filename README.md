@@ -94,8 +94,7 @@ I work across the full lifecycle, from requirement gathering and solution design
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saayf06&show_icons=true&count_private=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=Saayf06&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Saayf06&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
